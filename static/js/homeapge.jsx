@@ -10,8 +10,13 @@ class Homepage extends React.Component {
     render() {
       return (
         <div className="container">
-              
+          <h1>Ashley Ma</h1> 
 
+          <h3>Projects</h3>
+
+          <h3> Tech Stack</h3>
+          
+          
           
         </div> 
       );
